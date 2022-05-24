@@ -1,5 +1,5 @@
-# Vietnamese-Hate-Speech-Detection-Multi-Lable-Dataset-
-This is a rebuild version of ViHSD dataset to classified more specifical.
+# Vietnamese-Hate-Speech-Detection-Multi-Lable-Dataset
+This is a rebuild version of **[ViHSD](https://github.com/sonlam1102/vihsd)** dataset to classified more specifical.
 
 # This dataset is processsing...
 
